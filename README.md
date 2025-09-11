@@ -14,3 +14,13 @@ blalala 2
 **fat cursive**
 
 ~~ddddddddddddd~~
+
+1. first
+2. second
+3. third
+
+* text
+* another text
+
+- [x] buy bread
+- [ ] buy milk
